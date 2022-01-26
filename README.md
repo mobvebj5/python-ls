@@ -10,4 +10,4 @@ cd python-ls
 ```
 run:
 ```
-python python.p
+python mobveb.py
